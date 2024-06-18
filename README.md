@@ -1,12 +1,11 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Md. Mustakim Hayder
 
 I'm a Senior Software Engineer with 6 years of experience in software development. I excel in problem-solving, database design, and software architecture, and I'm passionate about building scalable and efficient applications.
 
 ## 🛠️ Technologies & Tools
 
 ### Languages & Frameworks
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-- ![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) - ![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
